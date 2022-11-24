@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My name's Ashir
+
+- 🧐 My interests are in full stack development, as well as AI/ML
+- 🔭 I'm currently working on several school projects, including a microserve-based application, and an NLP annotation project
+- 🌱 I'm currently learning about microserve architecture
+- 📫 How to reach me: email at xlinkfrostx@gmail.com, LinkedIn at https://www.linkedin.com/in/ashir-imran-6b73611b8/
+- 😄 Pronouns: He/him
+- ⚡ Check out my website and blog! https://www.linkfrost.com/
 
 <!--
 **LinkFrost/LinkFrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
