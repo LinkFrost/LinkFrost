@@ -1,25 +1,9 @@
 ### Hi there 👋 My name's Ashir
 
 - 🧐 My interests are in full stack development, as well as AI/ML
-- 🔭 I'm currently working on several school projects, including a microserve-based application
-- 🌱 I'm currently learning about microserve architecture
+- 🌱 I'm currently learning about microserve architecture and monorepos
 - 📫 How to reach me
-  -  Email: xlinkfrostx@gmail.com
-  -  LinkedIn: https://www.linkedin.com/in/ashir-imran-6b73611b8/
+  - 📧 Email: xlinkfrostx@gmail.com
+  - 👥 LinkedIn: https://www.linkedin.com/in/ashir-imran-6b73611b8/
   - ⚡ Check out my website and blog! https://www.linkfrost.com/
 - 😄 Pronouns: He/him
-
-<!--
-**LinkFrost/LinkFrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
