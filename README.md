@@ -1,7 +1,7 @@
 ### Hi there 👋 My name's Ashir
 
 - 🧐 My interests are in full stack development, as well as AI/ML
-- 🌱 I'm currently learning about microserve architecture and monorepos
+- 🌱 I'm currently learning about serverless and deployment
 - 📫 How to reach me
   - 📧 Email: xlinkfrostx@gmail.com
   - 👥 LinkedIn: https://www.linkedin.com/in/ashir-imran-6b73611b8/
